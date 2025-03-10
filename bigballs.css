@@ -4,7 +4,7 @@ html, body {
     font-family: 'Open Sans', sans-serif;
     height: 100%;
     margin: 0;
-    background-color: plum;
+    background-color: white;
   }
   .box {
     width: 80%;
@@ -76,15 +76,15 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
    }
 .element {
-    color:hwb(180 0% 0%)
+    color:hwb(180 0% 0%);
     font-family: 'Source Sans Pro', sans-serif;
 }
 .elemen {
-    color:darkorange
+    color:darkorange;
     font-family: 'Source Sans Pro', sans-serif;
 }
 .eleme {
-    color:brown
+    color:brown;
     font-family: 'Source Sans Pro', sans-serif;
 }
 #landing .title {
