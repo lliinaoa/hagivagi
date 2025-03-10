@@ -76,15 +76,15 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
    }
 .element {
-    color:hwb(180 0% 0%);
+    color:hwb(#199cd5);
     font-family: 'Source Sans Pro', sans-serif;
 }
 .elemen {
-    color:darkorange;
+    color:rgd(#ff8800);
     font-family: 'Source Sans Pro', sans-serif;
 }
 .eleme {
-    color:brown;
+    color:hwb(#622501);
     font-family: 'Source Sans Pro', sans-serif;
 }
 #landing .title {
