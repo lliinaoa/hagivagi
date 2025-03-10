@@ -76,7 +76,7 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
    }
 .element {
-    color:rgb(75, 154, 206);
+    color:blue;
     font-family: 'Source Sans Pro', sans-serif;
 }
 .elemen {
@@ -160,17 +160,17 @@ html, body {
     background-position: center center;
    }
    #landing .line-break1 {
-    background: linear-gradient(60deg, #199cd5, #ffd700, #dc143c);
+    background: linear-gradient(60deg, blue, #ffd700, #dc143c);
     width: 100%;
     margin: 0 auto;
    }
    #landing .line-break2 {
-    background: linear-gradient(60deg, #ff8800, #ffd700, #dc143c);
+    background: linear-gradient(60deg, darkorange, #ffd700, #dc143c);
     width: 100%;
     margin: 0 auto;
    }
    #landing .line-break3 {
-    background: linear-gradient(60deg, #622501, #ffd700, #dc143c);
+    background: linear-gradient(60deg, brown, #ffd700, #dc143c);
     width: 100%;
     margin: 0 auto;
    }
