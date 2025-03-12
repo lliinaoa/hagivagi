@@ -11,7 +11,7 @@ html, body {
 
     margin: 0;
 
-  background: url("https://raw.githubusercontent.com/lliinaoa/hagivagi/refs/heads/main/01HXXXN1MB85A3XZC3HJZ75J95.webp");
+  background: url("https://raw.githubusercontent.com/lliinaoa/hagivagi/refs/heads/main/фиолетовый-тонированный-вертикальный-фон-на-тему-медицины-светлые-и-220950317.webp");
 
   background-size: cover;
 
@@ -118,7 +118,7 @@ html, body {
 
     font-size: 15px;
 
-    color: aqua;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -166,7 +166,7 @@ html, body {
   
     text-transform: lowercase;
   
-    color: yellow;
+    color: rgb(255, 255, 255);
   
   }
   
@@ -184,7 +184,7 @@ html, body {
   
     text-transform: lowercase;
   
-    color: yellow;
+    color: rgb(255, 255, 255);
   
     font-size: 18px;
   
@@ -254,7 +254,7 @@ html, body {
   
       color: #FFF;
   
-      background-color: aqua;
+      background-color: rgb(0, 0, 0);
   
       font-size: 18px;
   
@@ -272,7 +272,7 @@ html, body {
   
       color: #FFF;
   
-      background-color: aqua;
+      background-color: rgb(0, 0, 0);
   
       font-size: 18px;
   
@@ -313,7 +313,7 @@ html, body {
 
     font-size: 15px;
 
-    color: yellow;
+    color: rgb(255, 255, 255);
 
     }
-    
+
