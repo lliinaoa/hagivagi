@@ -97,7 +97,7 @@ header #headline, header #circular-bg {
   }
   header #brand:before {
 
-    content: "ГОРЯЧАЯ СОБАКА";
+    content: "Хот дог";
   
     position: absolute;
   
@@ -142,7 +142,7 @@ header #headline, header #circular-bg {
   }
   header #headline:before {
 
-    content: "Хочешь этот хотдог?";
+    content: "Хочешь?";
   
     position: absolute;
   
@@ -160,7 +160,7 @@ header #headline, header #circular-bg {
 
   header #headline:after {
 
-    content: "Это лучший хотдог в мире";
+    content: "лучший";
   
     position: absolute;
   
@@ -475,5 +475,11 @@ h2 {
   
     flex-wrap: wrap;
   }
-  
+  .hotdog {
+    margin-top: -150px;
+
+ margin-left: -150px;
+
+ width: 20%;
+  }
  footer {color: darkgoldenrod;}
