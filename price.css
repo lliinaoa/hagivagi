@@ -35,7 +35,7 @@ header .info p {
 
 header #circular-bg {
   width: 85vw;
-  height: 90vw;
+  height: 85vw;
   background: rgb(248, 236, 66);
   border-radius: 50%;
   z-index: -10;
@@ -62,6 +62,8 @@ header #brand {
 }
 
 header #brand:before {
+  content: '       ';
+
   position: absolute;
   width: 110%;
   height: 60px;
