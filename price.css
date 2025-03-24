@@ -40,7 +40,7 @@ header #circular-bg {
   border-radius: 50%;
   z-index: -10;
   position: absolute;
-  top: 750px; 
+  top: 650px; 
   left: 50%;
   transform: translateX(-50%);
 }
@@ -63,7 +63,7 @@ header #brand {
   position: absolute;
   left: 20vw;
   top: 15%;
-  margin-top: 50px;
+  margin-top: 130px;
 }
 
 header #brand:before {
