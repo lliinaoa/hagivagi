@@ -40,7 +40,7 @@ header #circular-bg {
   border-radius: 50%;
   z-index: -10;
   position: absolute;
-  top: 650px; 
+  top: 610px; 
   left: 50%;
   transform: translateX(-50%);
 }
