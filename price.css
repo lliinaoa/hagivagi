@@ -278,7 +278,7 @@ input:checked + .slider:before {
 .hotdog {
   margin-top: -150px;
   margin-left: -150px;
-  width: 20%;
+  width: 100%;
   }
 
 footer {color: darkgoldenrod;}
