@@ -39,6 +39,10 @@ header #circular-bg {
   background: rgb(248, 236, 66);
   border-radius: 50%;
   z-index: -10;
+  position: absolute;
+  top: 750px; 
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 header nav {
@@ -59,6 +63,7 @@ header #brand {
   position: absolute;
   left: 20vw;
   top: 15%;
+  margin-top: 50px;
 }
 
 header #brand:before {
@@ -275,7 +280,7 @@ input:checked + .slider:before {
 .hotdog {
   margin-top: 40px;
   margin-left: 30px;
-  width: 37%;
+  width: 36%;
   }
 
 footer {color: darkgoldenrod;}
